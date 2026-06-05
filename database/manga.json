@@ -1,0 +1,55 @@
+{
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "The Dragon Slayer's Unrivaled Regression / 용살자의 역대급 회귀",
+  "status": "Ongoing",
+  "author": "Kim Woo-Gak",
+  "artist": "Studio Redice",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": "4.85",
+  "synopsis": "Slayer naga terkuat umat manusia, Siegfried, gugur dalam pertempuran final yang mengerikan melawan Raja Naga. Namun, alih-alih pergi ke akhirat, dia terbangun kembali di masa lalunya sebagai seorang taruna akademi militer rendahan sebelum kehancuran dunia dimulai. Berbekal ingatan masa depan, teknik tempur absolut, dan dendam membara, Siegfried bertekad untuk melampaui batas kemampuannya terdahulu, mengumpulkan sekutu terkuat, dan membantai seluruh ras naga sebelum mereka sempat menginjakkan kaki di dunia manusia sekali lagi.",
+  "cover_url": "https://raw.githubusercontent.com/monstacomic-storage/assets/main/covers/a-dragonslayers-peerless-regression.jpg",
+  "chapters": [
+    {
+      "chapter_number": "00",
+      "chapter_title": "Prologue: Kehancuran dan Awal Baru",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-00/001.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-00/002.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-00/003.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-00/004.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-00/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": "01",
+      "chapter_title": "Terbangun di Masa Lalu",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/001.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/002.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/003.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/004.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/005.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/006.jpg"
+      ]
+    },
+    {
+      "chapter_number": "02",
+      "chapter_title": "Rencana Pelatihan Gila",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/001.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/002.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/003.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/004.jpg"
+      ]
+    }
+  ]
+}
