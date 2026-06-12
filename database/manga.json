@@ -28,5 +28,29 @@
     "manga_id": "omniscient-reader",
     "title": "Omniscient Reader's Viewpoint",
     "cover_url": "https://raw.githubusercontent.com/monstacomic-storage/assets/main/covers/orv.jpg"
+  },
+  {
+    "manga_id": "A Cadet Becomes a Prophet",
+    "title": "A Cadet Becomes A Prophet",
+    "cover_url": "https://raw.githubusercontent.com/reyhanyoga21ti/reyhanmonstadata/main/assets/covers/A Cadet Becomes a Prophet.jpg",
+    "category": "Action"
+  },
+  {
+    "manga_id": "Academy_s Genius Swordmaster",
+    "title": "Academy S Genius Swordmaster",
+    "cover_url": "https://raw.githubusercontent.com/reyhanyoga21ti/reyhanmonstadata/main/assets/covers/Academy_s Genius Swordmaster.jpg",
+    "category": "Action"
+  },
+  {
+    "manga_id": "Children of the Rune",
+    "title": "Children Of The Rune",
+    "cover_url": "https://raw.githubusercontent.com/reyhanyoga21ti/reyhanmonstadata/main/assets/covers/Children of the Rune.jpg",
+    "category": "Action"
+  },
+  {
+    "manga_id": "Chronicles Of The Martial God_s Return",
+    "title": "Chronicles Of The Martial God S Return",
+    "cover_url": "https://raw.githubusercontent.com/reyhanyoga21ti/reyhanmonstadata/main/assets/covers/Chronicles Of The Martial God_s Return.jpg",
+    "category": "Action"
   }
 ]
